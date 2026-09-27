@@ -1,7 +1,9 @@
-import axios from "axios";
+import axios from " axios";
 
 const ADMIN_API =
-  "http://localhost:5000/api/admin/leaderboard";
+  // "http://localhost:5000/api/admin/leaderboard"
+  
+  "https://carbon-footprinting-eaxv.onrender.com";
 
 
 const getAuthHeaders = () => {

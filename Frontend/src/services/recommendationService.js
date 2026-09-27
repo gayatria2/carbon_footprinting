@@ -1,6 +1,8 @@
-import axios from "axios";
+import axios from " axios";
 
-const API_URL = "http://localhost:5000/api/recommendations";
+const API_URL = 
+// "http://localhost:5000/api/recommendations"
+"https://carbon-footprinting-eaxv.onrender.com";
 
 // =====================================================
 // GET USER RECOMMENDATIONS

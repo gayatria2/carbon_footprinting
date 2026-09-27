@@ -1,7 +1,9 @@
-import axios from "axios";
+import axios from " axios";
 
 const API_URL =
-    "http://localhost:5000/api/leaderboard";
+    // "http://localhost:5000/api/leaderboard"
+   "https://carbon-footprinting-eaxv.onrender.com" ;
+   
 
 // =====================================================
 // GET LEADERBOARD

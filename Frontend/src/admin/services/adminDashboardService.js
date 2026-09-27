@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from " axios";
 
 
 // =====================================================
@@ -6,7 +6,9 @@ import axios from "axios";
 // =====================================================
 
 const ADMIN_API =
-    "http://localhost:5000/api/admin/dashboard";
+    // "http://localhost:5000/api/admin/dashboard"
+    
+    "https://carbon-footprinting-eaxv.onrender.com";
 
 
 // =====================================================

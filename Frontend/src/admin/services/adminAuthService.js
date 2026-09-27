@@ -1,11 +1,14 @@
-import axios from "axios";
+import axios from " axios";
 
 // =====================================================
 // ADMIN API BASE URL
 // =====================================================
 
 const ADMIN_API =
-    "http://localhost:5000/api/admin/auth";
+    // "http://localhost:5000/api/admin/auth"
+    
+    
+    "https://carbon-footprinting-eaxv.onrender.com";
 
 
 // =====================================================

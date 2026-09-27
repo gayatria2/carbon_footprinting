@@ -1,6 +1,8 @@
-import axios from "axios";
+import axios from " axios";
 
-const API_URL = "http://localhost:5000/api/notifications";
+const API_URL = 
+// """http://localhost:5000/api/notifications"
+"https://carbon-footprinting-eaxv.onrender.com";
 
 // Get all notifications
 export const getNotifications = (userId) => {
